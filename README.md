@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hello, I'm `CodeMysticX` 👋<br><br>I'm a passionate programmer . <br><br>- 🔭 I’m currently working on my projects to achieve `ProjectGoal`.<br>- 🌱 I’m constantly learning and exploring new technologies.<br>- 👯 I’m open to collaborations and interested in working on innovative projects.<br>- 💬 Ask me about anything tech-related.<br>- 😄 Pronouns: He/Him<br>
+Hello, I'm `CodeMysticX` 👋
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<br><br>I'm a passionate programmer . <br><br>- 🔭 I’m currently working on my projects to achieve `ProjectGoal`.<br>- 🌱 I’m constantly learning and exploring new technologies.<br>- 👯 I’m open to collaborations and interested in working on innovative projects.<br>- 💬 Ask me about anything tech-related.<br>- 😄 Pronouns: He/Him<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SaurAbh Painuly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaur_abh_painuly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saurabh Painuly) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SP_Creastions) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@isaurabh_painuly) 
