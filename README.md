@@ -1,6 +1,4 @@
 
-<img  src="https://img.lovepik.com/element/40245/6409.png_1200.png">
-
 # 💫 About Me:
 Hello, I'm `CodeMysticX` 👋
 
